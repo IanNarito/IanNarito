@@ -1,16 +1,79 @@
-## Hi there 👋
+<!-- Profile Header Banner -->
+<p align="center">
+  <img src="https://images.app.goo.gl/781eJtz1RZKRxyZA9" width="100%" alt="Cyber Banner"/>
+</p>
 
-<!--
-**IanNarito/IanNarito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🧠 IanNarito — Code Wizard | Red Team Tinkerer ⚔️</h1>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building%20Red%20Team%20Tools%20🛠️;Breaking%20%F0%9F%94%A5%20Security%20Barriers%20%F0%9F%95%8A%EF%B8%8F;Learning%20Daily%2C%20Evolving%20Always%20%F0%9F%94%8A&center=true&width=500&height=30&color=64DDBB&vCenter=true&size=18"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Cyber Tools -->
+  <img src="https://img.shields.io/badge/Nmap-0078D7?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-3F3F3F?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- OS -->
+  <img src="https://img.shields.io/badge/Kali_Linux-268BCE?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parrot_OS-1F1F1F?style=for-the-badge&logo=linux&logoColor=green" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Editors / DB -->
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IanNarito&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IanNarito&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+---
+
+## 🕹️ Projects I’m Crafting
+
+- 🐺 `KITSUNE` — Advanced DDoS Testing + Botnet Emulator  
+- 🎮 OSINT Playground for Ethical Recon Missions  
+- 🧠 Custom C2 Framework with full persistence + opsec  
+- ⚔️ Cyber Range: Gamified Training for Future Hackers  
+
+---
+
+## 👾 Hacker Vibes
+
+> “Code is my weapon. Terminal is my battlefield.”  
+>  
+> 💣 Red Team Specialist  
+> 🧬 Offensive Dev Mindset  
+> 🛡️ Cyber Ops All Day  
+> 🐉 Always leveling up like it’s a damn RPG
+
+---
+
+
