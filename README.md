@@ -1,6 +1,6 @@
 <!-- Profile Header Banner -->
 <p align="center">
-  <img src="https://images.app.goo.gl/781eJtz1RZKRxyZA9" width="100%" alt="Cyber Banner"/>
+  <img src="assets/img/kaneki.gif" width="50%" alt="Cyber Banner"/>
 </p>
 
 <h1 align="center">🧠 IanNarito — Code Wizard | Red Team Tinkerer ⚔️</h1>
@@ -56,6 +56,18 @@
 
 ---
 
+## 🧬 Contribution Snake & 3D Calendar
+
+<p align="center">
+  <img src="https://github.com/IanNarito/IanNarito/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Ashutosh00710/github-readme-3d-contrib@main/me_light.svg" width="100%" />
+</p>
+
+---
+
 ## 🕹️ Projects I’m Crafting
 
 - 🐺 `KITSUNE` — Advanced DDoS Testing + Botnet Emulator  
@@ -75,5 +87,3 @@
 > 🐉 Always leveling up like it’s a damn RPG
 
 ---
-
-
