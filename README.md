@@ -56,21 +56,10 @@
 
 ---
 
-## 🧬 Contribution Snake & 3D Calendar
-
-<p align="center">
-  <img src="https://github.com/IanNarito/IanNarito/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Ashutosh00710/github-readme-3d-contrib@main/me_light.svg" width="100%" />
-</p>
-
----
 
 ## 🕹️ Projects I’m Crafting
 
-- 🐺 `KITSUNE` — Advanced DDoS Testing + Botnet Emulator  
+- 🐺 `KITSUNE` — Advanced DDoS Tool  
 - 🎮 OSINT Playground for Ethical Recon Missions  
 - 🧠 Custom C2 Framework with full persistence + opsec  
 - ⚔️ Cyber Range: Gamified Training for Future Hackers  
