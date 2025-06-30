@@ -3,7 +3,7 @@
   <img src="assets/img/kaneki.gif" width="50%" alt="Cyber Banner"/>
 </p>
 
-<h1 align="center">🧠 IanNarito — Code Wizard | Red Team Tinkerer ⚔️</h1>
+<h1 align="center"> IanNarito | Ethical Penetration Tester </h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building%20Red%20Team%20Tools%20🛠️;Breaking%20%F0%9F%94%A5%20Security%20Barriers%20%F0%9F%95%8A%EF%B8%8F;Learning%20Daily%2C%20Evolving%20Always%20%F0%9F%94%8A&center=true&width=500&height=30&color=64DDBB&vCenter=true&size=18"/>
@@ -59,20 +59,7 @@
 
 ## 🕹️ Projects I’m Crafting
 
-- 🐺 `KITSUNE` — Advanced DDoS Tool  
-- 🎮 OSINT Playground for Ethical Recon Missions  
-- 🧠 Custom C2 Framework with full persistence + opsec  
-- ⚔️ Cyber Range: Gamified Training for Future Hackers  
-
----
-
-## 👾 Hacker Vibes
-
-> “Code is my weapon. Terminal is my battlefield.”  
->  
-> 💣 Red Team Specialist  
-> 🧬 Offensive Dev Mindset  
-> 🛡️ Cyber Ops All Day  
-> 🐉 Always leveling up like it’s a damn RPG
+- 🐺 Advanced DDoS Tool    
+- 🧠 Custom C2 Framework with full persistence   
 
 ---
