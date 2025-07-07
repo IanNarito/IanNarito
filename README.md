@@ -59,7 +59,8 @@
 
 ## 🕹️ Projects I’m Crafting
 
-- 🐺 Advanced DDoS Tool    
-- 🧠 Custom C2 Framework with full persistence   
+-  DDoS Tools 
+-  Hacking tools
+-  Osint tools
 
 ---
